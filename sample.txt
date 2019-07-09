@@ -1,3 +1,33 @@
-testing2222
+GIT HUB NOTES 
 
-added new function
+//normal
+ git diff - show changes / modified
+ git status
+ git add .
+ git commit -m 'message'
+ git pull origin master
+ git push origin master
+
+//common workflow
+  1.) git branch branchname - creating branch
+  2.) git branch - show all the branches in local repository
+  3.) git checkout branchname - go to the branch
+  4.) - work on the code / module in the application -
+  5.) git add .
+  6.) git commit -m "message"
+  7.) git push -u origin branchname -use (-u) once
+  8.) git checkout master
+  9.) git pull origin master
+  10.) git branch --merged - see all the merged branches in the master
+  11.) git merge branchname
+  12.) git push origin master
+
+  ---delete branch after merge
+  13.) git branch -d branchname - delete branch local repository
+  14.) git branch -a
+  15.) git push origin --delete branchname - delete branch in remote repository
+  16.) git branch -a
+
+
+//check branches in remote and local repository
+git branch -a
