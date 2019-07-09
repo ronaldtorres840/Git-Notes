@@ -1,5 +1,10 @@
 GIT HUB NOTES 
 
+//change config details
+  git config --global user.name "Name Here"
+  git config --global user.email "email@here.com"
+  git config --list  -show config values
+
 //normal
  git diff - show changes / modified
  git status
