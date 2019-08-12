@@ -39,6 +39,9 @@ GIT HUB NOTES
 //check branches in remote and local repository
 git branch -a
 
+//check branches in local repository
+git branch
+
 // reset staging part (git add part)
 git reset - reset all added files
 git reset filename - remove specific file
