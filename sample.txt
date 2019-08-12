@@ -40,3 +40,6 @@ git branch -a
 // reset staging part (git add part)
 git reset - reset all added files
 git reset filename - remove specific file
+
+
+test
