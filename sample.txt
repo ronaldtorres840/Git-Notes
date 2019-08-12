@@ -29,7 +29,7 @@ GIT HUB NOTES
   11.) git merge branchname
   12.) git push origin master
 
-  ---delete branch after merge
+  --- after the branch is merged to the main it is time to delete branch
   13.) git branch -d branchname - delete branch local repository
   14.) git branch -a
   15.) git push origin --delete branchname - delete branch in remote repository
