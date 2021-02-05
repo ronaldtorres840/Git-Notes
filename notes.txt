@@ -46,7 +46,7 @@ git branch
 git reset - reset all added files
 git reset filename - remove specific file
 
-
-test
+test omer
 
 fuck
+
