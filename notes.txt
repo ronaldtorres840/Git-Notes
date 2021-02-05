@@ -48,5 +48,7 @@ git reset filename - remove specific file
 
 test omer
 
-fuck
+fuck1231254
+
+vass
 
